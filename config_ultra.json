@@ -206,21 +206,9 @@
   "parses": [],
   "lives": [
     {
-      "name": "16万•MV",
-      "type": 0,
-      "url": "https://gh.tryxd.cn/raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt",
-      "epg": ""
-    },
-    {
       "name": "平台直播",
       "type": 0,
       "url": "http://118.89.172.248:8025/jar/zb.php",
-      "epg": ""
-    },
-    {
-      "name": "电视狗",
-      "type": 0,
-      "url": "http://47.120.41.246:8025/vip/jar/zb.php",
       "epg": ""
     }
   ]
