@@ -194,15 +194,9 @@
   "parses": [],
   "lives": [
     {
-      "name": "电视狗",
+      "name": "平台直播",
       "type": 0,
-      "url": "https://zb.7778.uk/starlink.m3u",
-      "epg": ""
-    },
-    {
-      "name": "电视狗",
-      "type": 0,
-      "url": "https://zb.7778.uk",
+      "url": "http://118.89.172.248:8025/jar/zb.php",
       "epg": ""
     }
   ]
